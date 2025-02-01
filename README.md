@@ -1,4 +1,4 @@
-## Oii! eu sou a Rayelen Oliviera 💖
+## Oii! eu sou a Rayelen Oliveira 💖
 
 <div>
   <a href="https://github.com/yellenbr/github-readme-stats">
