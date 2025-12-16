@@ -1,5 +1,3 @@
-## Oii! eu sou a Rayelen Oliveira 
-
 <div>
   <a href="https://github.com/yellenbr/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=yellenbr&show_icons=true&theme=dracula" />
