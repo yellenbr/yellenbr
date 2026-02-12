@@ -15,7 +15,7 @@
   <img align="center" alt="yellen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="yellen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="yellen-TypeScript" height="30" width="40" src="https://images.icon-icons.com/2415/PNG/512/typescript_plain_logo_icon_146316.png">
-  <img align="center" alt="yellen-Nestjs" height="30" width="40" src= https://images.icon-icons.com/2148/PNG/512/nestjs_icon_132165.png">
+  <img align="center" alt="yellen-Nestjs" height="30" width="40" src="https://images.icon-icons.com/2148/PNG/512/nestjs_icon_132165.png">
 
   
 </div>
