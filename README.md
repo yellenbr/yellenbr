@@ -1,14 +1,9 @@
 <div>
-  <a href="https://github.com/yellenbr/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=yellenbr&show_icons=true&theme=dracula" />
-</a>
 <a href="https://github.com/yellenbr/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yellenbr&show_icons=true&theme=dracula&layout=compact&langs_count=8&card_width=320" />
 </a>
-<a href = "https://github.com/yellenbr/github-readme-stats"/>
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&count_private=true&include_all_commits=true"/>
-
-
+<a href = "https://github.com/yellenbr/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&count_private=true&include_all_commits=true"/>
 /a>
 
 <h1>Tecnologias</h1>
