@@ -14,8 +14,8 @@
   <img align="center" alt="yellen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="yellen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="yellen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="yellen-TypeScript" height="30" width="40" src="https://images.icon-icons.com/2415/PNG/512/typescript_plain_logo_icon_146316.png">
-  <img align="center" alt="yellen-Nestjs" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm69IpnyDr5LvSwdaW5BN0rEu_OGJb0YfNGg&s">
+  <img align="center" alt="yellen-TypeScript" height="30" width="42" src="https://images.icon-icons.com/2415/PNG/512/typescript_plain_logo_icon_146316.png">
+  <img align="center" alt="yellen-Nestjs" height="30" width="42" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm69IpnyDr5LvSwdaW5BN0rEu_OGJb0YfNGg&s">
 
   
 </div>
