@@ -1,11 +1,16 @@
-<div>
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yellenbr&theme=dracula"/>
-
-<img src="https://streak-stats.demolab.com?user=yellenbr&theme=dracula"/>
-
+  <img
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=yellenbr&theme=dracula"
+  />
+  <br/>
+  <!-- <img
+    alt="Top Languages"
+    height="180"
+    src="https://github-profile-trophy.vercel.app/?username=yellenbr&theme=dracula&margin-w=10&no-frame=true"
+  /> -->
 </div>
+
   
 <h1>Tecnologias</h1>
 <div style="display: inline_block"><br>
